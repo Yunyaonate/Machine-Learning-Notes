@@ -1,6 +1,7 @@
 # Machine-Learning-Notes
 ----
 # USYD HTIN5005
+Course tutorial materials [link](https://drive.google.com/drive/folders/1uf4iJsJnF0sE0awSCHc5uesTXHotHDtA)
 
 |Week|Topic|Materials|Comments/notes/Practice|
 |-|-|-|-|
